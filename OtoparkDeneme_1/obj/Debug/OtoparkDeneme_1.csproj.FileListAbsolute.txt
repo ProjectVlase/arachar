@@ -1,0 +1,12 @@
+C:\Users\alper\source\repos\OtoparkDeneme_1\OtoparkDeneme_1\bin\Debug\OtoparkDeneme_1.exe.config
+C:\Users\alper\source\repos\OtoparkDeneme_1\OtoparkDeneme_1\bin\Debug\OtoparkDeneme_1.exe
+C:\Users\alper\source\repos\OtoparkDeneme_1\OtoparkDeneme_1\bin\Debug\OtoparkDeneme_1.pdb
+C:\Users\alper\source\repos\OtoparkDeneme_1\OtoparkDeneme_1\obj\Debug\OtoparkDeneme_1.csproj.AssemblyReference.cache
+C:\Users\alper\source\repos\OtoparkDeneme_1\OtoparkDeneme_1\obj\Debug\OtoparkDeneme_1.Form1.resources
+C:\Users\alper\source\repos\OtoparkDeneme_1\OtoparkDeneme_1\obj\Debug\OtoparkDeneme_1.Properties.Resources.resources
+C:\Users\alper\source\repos\OtoparkDeneme_1\OtoparkDeneme_1\obj\Debug\OtoparkDeneme_1.csproj.GenerateResource.cache
+C:\Users\alper\source\repos\OtoparkDeneme_1\OtoparkDeneme_1\obj\Debug\OtoparkDeneme_1.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\OtoparkDeneme_1\OtoparkDeneme_1\obj\Debug\OtoparkDeneme_1.exe
+C:\Users\alper\source\repos\OtoparkDeneme_1\OtoparkDeneme_1\obj\Debug\OtoparkDeneme_1.pdb
+C:\Users\alper\source\repos\OtoparkDeneme_1\OtoparkDeneme_1\obj\Debug\OtoparkDeneme_1.Form2.resources
+C:\Users\alper\source\repos\OtoparkDeneme_1\OtoparkDeneme_1\obj\Debug\OtoparkDeneme_1.Form3.resources
